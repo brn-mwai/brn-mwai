@@ -1,6 +1,6 @@
 # Hi, I'm Brian &nbsp;👋
 
-📍 Nairobi, Kenya &nbsp;|&nbsp; 🔬 Physicist &nbsp;|&nbsp; 🎨 Designer &nbsp;|&nbsp; 💻 Developer &nbsp;|&nbsp; 🏗️ Founder, [Hausor Labs](https://brianmwai.com)
+📍 Nairobi, Kenya &nbsp;|&nbsp; 🔬 Physicist &nbsp;|&nbsp; 🎨 Designer &nbsp;|&nbsp; 💻 Developer &nbsp;|&nbsp; 🏗️ Founder, [Hausor Labs](https://brianmwai.com) & [AXI Mobility](https://aximobility.org)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -26,7 +26,6 @@ I build at the intersection of AI/ML and blockchain, two technologies I believe 
 - 🚛 **[AXI Mobility](https://aximobility.org)** - The OS for mobility assets, services & transition. AI-native fleet management with blockchain-backed traceability.
 - 🤖 **[Wispy](https://github.com/brn-mwai/wispy)** - Autonomous AI Agent Platform. Marathon Mode, x402 payments, A2A protocol. Powered by Gemini.
 - 🌿 **[REVLOG](https://github.com/brn-mwai)** - Fire-safe storage and collection infrastructure for new and end-of-life batteries in Africa.
-- 🔒 **[Ishara](https://github.com/brn-mwai)** - The trust layer for Global South trade. Verification infrastructure for commodities.
 - 🛰️ **[Kenya Space Agency - AIMS](https://github.com/brn-mwai)** - Satellite-based agricultural monitoring system. Built and deployed in production.
 
 ## Hackathon Projects
@@ -37,12 +36,6 @@ I build at the intersection of AI/ML and blockchain, two technologies I believe 
 - 🗣️ **[Sparrow AI](https://github.com/brn-mwai/sparrow-ai-partner-catalyst)** - AI-powered sales training. Practice cold calls with AI prospects that push back like real buyers.
 - 🔍 **[Resolve](https://github.com/brn-mwai/resolve)** - Intelligent Incident Resolution Agent powered by Elastic Agent Builder.
 - 💰 **[Paystream AI](https://github.com/brn-mwai)** - AI blockchain payroll system. Autonomous payments in seconds.
-
-## Open Source & Research
-
-- 🌙 **[Red Moon Project](https://github.com/brn-mwai/Red-Moon-Project)** - Interactive 3D lunar eclipse simulation with real-time Rayleigh scattering physics.
-- ⚛️ **[Chaotic Pendulum](https://github.com/brn-mwai/Chaotic-Pendulum-Simulation)** - Double pendulum chaos simulation and visualization.
-- ⛓️ **[AXI Blockchain](https://github.com/brn-mwai/aximobility-blockchain)** - Decentralized mobility meets smart contracts, DIDs, and real-time data.
 
 ---
 
