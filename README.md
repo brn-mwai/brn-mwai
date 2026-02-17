@@ -60,9 +60,3 @@ I build at the intersection of AI/ML and blockchain, two technologies I believe 
     <img src="https://streak-stats.demolab.com?user=brn-mwai&background=0d1117&ring=F97316&fire=F97316&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=F97316&sideLabels=F97316&dates=6e7681&hide_border=true" alt="GitHub Streak"/>
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/brn-mwai">
-    <img src="https://github-trophies.vercel.app/?username=brn-mwai&theme=darkhub&no-frame=true&column=6&margin-w=10" alt="Trophies"/>
-  </a>
-</p>
