@@ -42,20 +42,6 @@ I build at the intersection of AI/ML and blockchain, two technologies I believe 
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brn-mwai&bg_color=0d1117&color=F97316&line=F97316&point=ffffff&area=true&area_color=F97316&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Activity Graph"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/brn-mwai">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=brn-mwai&show_icons=true&bg_color=0d1117&title_color=F97316&icon_color=F97316&text_color=c9d1d9&ring_color=F97316&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/brn-mwai">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brn-mwai&layout=compact&bg_color=0d1117&title_color=F97316&text_color=c9d1d9&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/brn-mwai">
     <img src="https://streak-stats.demolab.com?user=brn-mwai&background=0d1117&ring=F97316&fire=F97316&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=F97316&sideLabels=F97316&dates=6e7681&hide_border=true" alt="GitHub Streak"/>
   </a>
