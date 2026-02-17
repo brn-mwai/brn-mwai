@@ -63,6 +63,6 @@ I build at the intersection of AI/ML and blockchain, two technologies I believe 
 
 <p align="center">
   <a href="https://github.com/brn-mwai">
-    <img src="https://github-profile-trophy.vercel.app/?username=brn-mwai&theme=darkhub&no-frame=true&column=6&margin-w=10" alt="Trophies"/>
+    <img src="https://github-trophies.vercel.app/?username=brn-mwai&theme=darkhub&no-frame=true&column=6&margin-w=10" alt="Trophies"/>
   </a>
 </p>
