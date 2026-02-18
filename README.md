@@ -13,13 +13,18 @@
 ![Claude](https://img.shields.io/badge/Claude-D4A27F?style=flat&logo=anthropic&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat&logo=ethereum&logoColor=white)
 
-> Physicist, builder, pattern-reader from Kenya. Building infrastructure so Africa can leapfrog.
+I just enjoy building. I love building cool stuff with cool people, and I'm having fun doing it.
 
-I build at the intersection of AI/ML and blockchain, two technologies I believe are uniquely positioned to accelerate development in infrastructure-constrained environments across the Global South.
+I build at the intersection of AI/ML and blockchain -- two technologies I believe are uniquely positioned to accelerate development in infrastructure-constrained environments across the Global South. I'm also deeply interested in sociophysics: applying the tools of physics to understand social systems, collective behavior, and the hidden architecture underneath the things we can see.
 
-<a href="https://brianmwai.com"><img src="https://img.shields.io/badge/brianmwai.com-F97316?style=flat-square&logo=safari&logoColor=white" alt="Website"/></a>&nbsp;
-<a href="https://x.com/brnmwai"><img src="https://img.shields.io/badge/@brnmwai-F97316?style=flat-square&logo=x&logoColor=white" alt="X"/></a>&nbsp;
-<a href="mailto:hey@brianmwai.com"><img src="https://img.shields.io/badge/hey@brianmwai.com-F97316?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+I see patterns faster than details. I move across disciplines -- physics, design, blockchain, AI -- because the structures underneath are often the same. The visible world is downstream of invisible architecture: financial, political, technical. I like studying the invisible parts.
+
+### Writing
+
+- 📐 [The Mathematics of Vibration](https://brianmwai.com/blog) -- Everything we perceive as solid is actually vibrating at specific frequencies.
+- 👁️ [The Architecture of Invisibility](https://brianmwai.com/blog) -- The visible world is downstream of invisible architecture.
+- 🧠 [Teaching Neural Networks to Solve Physics](https://brianmwai.com/blog) -- What if we could embed the laws of physics directly into how machines learn?
+- ✍️ [Poetic Warfare](https://brianmwai.com/blog) -- Substack publication.
 
 ---
 
@@ -40,6 +45,15 @@ I build at the intersection of AI/ML and blockchain, two technologies I believe 
 - 💰 <a href="https://paystream.hausorlabs.tech"><b><img src="https://img.shields.io/badge/Paystream_AI-F97316?style=flat-square" alt="Paystream AI"/></b></a> &nbsp;AI blockchain payroll system. Autonomous payments in seconds.
 
 ---
+
+### Connect
+
+<a href="https://x.com/brnmwai"><img src="https://img.shields.io/badge/@brnmwai-F97316?style=flat-square&logo=x&logoColor=white" alt="X"/></a>&nbsp;
+<a href="https://linkedin.com/in/brnmwai"><img src="https://img.shields.io/badge/brnmwai-F97316?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="https://instagram.com/brnmwai"><img src="https://img.shields.io/badge/brnmwai-F97316?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp;
+<a href="https://discord.com/users/brnmwai_"><img src="https://img.shields.io/badge/brnmwai__-F97316?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>&nbsp;
+<a href="https://brianmwai.com"><img src="https://img.shields.io/badge/brianmwai.com-F97316?style=flat-square&logo=safari&logoColor=white" alt="Website"/></a>&nbsp;
+<a href="mailto:hey@brianmwai.com"><img src="https://img.shields.io/badge/hey@brianmwai.com-F97316?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <p align="center">
   <a href="https://github.com/brn-mwai">
