@@ -1,6 +1,6 @@
 # Hi, I'm Brian &nbsp;👋
 
-📍 Nairobi, Kenya &nbsp;|&nbsp; 🔬 Physicist &nbsp;|&nbsp; 🎨 Designer &nbsp;|&nbsp; 💻 Developer &nbsp;|&nbsp; 🏗️ Founder, <a href="https://brianmwai.com"><img src="https://img.shields.io/badge/Hausor_Labs-F97316?style=flat" alt="Hausor Labs"/></a> & <a href="https://aximobility.org"><img src="https://img.shields.io/badge/AXI_Mobility-F97316?style=flat" alt="AXI Mobility"/></a> &nbsp;|&nbsp; 🎯 <a href="https://formartly.studio"><img src="https://img.shields.io/badge/Formartly-F97316?style=flat" alt="Formartly"/></a>
+📍 Nairobi, Kenya &nbsp;|&nbsp; 🔬 Physicist &nbsp;|&nbsp; 🎨 Designer &nbsp;|&nbsp; 💻 Developer &nbsp;|&nbsp; 🏗️ Founder, <a href="https://hausorlabs.tech"><img src="https://img.shields.io/badge/Hausor_Labs-F97316?style=flat" alt="Hausor Labs"/></a> & <a href="https://aximobility.com"><img src="https://img.shields.io/badge/AXI_Mobility-F97316?style=flat" alt="AXI Mobility"/></a> &nbsp;|&nbsp; 🎯 <a href="https://formartly.studio"><img src="https://img.shields.io/badge/Formartly-F97316?style=flat" alt="Formartly"/></a>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
