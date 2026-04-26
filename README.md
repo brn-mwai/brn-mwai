@@ -15,16 +15,16 @@
 
 I just enjoy building. I love building cool stuff with cool people, and I'm having fun doing it.
 
-I build at the intersection of AI/ML and blockchain -- two technologies I believe are uniquely positioned to accelerate development in infrastructure-constrained environments across the Global South. I'm also deeply interested in sociophysics: applying the tools of physics to understand social systems, collective behavior, and the hidden architecture underneath the things we can see.
+I build at the intersection of AI/ML and blockchain - two technologies I believe are uniquely positioned to accelerate development in infrastructure-constrained environments across the Global South. I'm also deeply interested in sociophysics: applying the tools of physics to understand social systems, collective behavior, and the hidden architecture underneath the things we can see.
 
-I see patterns faster than details. I move across disciplines -- physics, design, blockchain, AI -- because the structures underneath are often the same. The visible world is downstream of invisible architecture: financial, political, technical. I like studying the invisible parts.
+I see patterns faster than details. I move across disciplines - physics, design, blockchain, AI - because the structures underneath are often the same. The visible world is downstream of invisible architecture: financial, political, technical. I like studying the invisible parts.
 
 ### Writing
 
-- 📐 [The Mathematics of Vibration](https://brianmwai.com/blog) -- Everything we perceive as solid is actually vibrating at specific frequencies.
-- 👁️ [The Architecture of Invisibility](https://brianmwai.com/blog) -- The visible world is downstream of invisible architecture.
-- 🧠 [Teaching Neural Networks to Solve Physics](https://brianmwai.com/blog) -- What if we could embed the laws of physics directly into how machines learn?
-- ✍️ [Poetic Warfare](https://brianmwai.com/blog) -- Substack publication.
+- 📐 [The Mathematics of Vibration](https://brianmwai.com/blog) - Everything we perceive as solid is actually vibrating at specific frequencies.
+- 👁️ [The Architecture of Invisibility](https://brianmwai.com/blog) - The visible world is downstream of invisible architecture.
+- 🧠 [Teaching Neural Networks to Solve Physics](https://brianmwai.com/blog) - What if we could embed the laws of physics directly into how machines learn?
+- ✍️ [Poetic Warfare](https://brianmwai.com/blog) - Substack publication.
 
 ---
 
