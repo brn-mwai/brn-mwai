@@ -21,29 +21,29 @@ I see patterns faster than details. I move across disciplines - physics, design,
 
 ### Writing
 
-- 📐 [The Mathematics of Vibration](https://brianmwai.com/blog) - Everything we perceive as solid is actually vibrating at specific frequencies.
-- 👁️ [The Architecture of Invisibility](https://brianmwai.com/blog) - The visible world is downstream of invisible architecture.
-- 🧠 [Teaching Neural Networks to Solve Physics](https://brianmwai.com/blog) - What if we could embed the laws of physics directly into how machines learn?
-- ✍️ [Poetic Warfare](https://brianmwai.com/blog) - Substack publication.
+- 📐 [The Mathematics of Vibration](https://brianmwai.com/blog)
+- 👁️ [The Architecture of Invisibility](https://brianmwai.com/blog)
+- 🧠 [Teaching Neural Networks to Solve Physics](https://brianmwai.com/blog)
+- ✍️ [Poetic Warfare](https://brianmwai.com/blog)
 
 ---
 
 ## Current Projects
 
-- 🚛 <a href="https://aximobility.com"><b><img src="https://img.shields.io/badge/AXI_Mobility-F97316?style=flat-square" alt="AXI"/></b></a> &nbsp;The OS for mobility assets, services & transition. AI-native fleet management with blockchain-backed traceability.
-- 🤖 <a href="https://wispy.cc"><b><img src="https://img.shields.io/badge/Wispy-F97316?style=flat-square" alt="Wispy"/></b></a>&nbsp;<a href="https://github.com/brn-mwai/wispy"><img src="https://img.shields.io/badge/repo-181717?style=flat-square&logo=github&logoColor=white" alt="repo"/></a> &nbsp;Autonomous AI Agent Platform. Marathon Mode, x402 payments, A2A protocol. Powered by Gemini.
-- 🌿 <a href="https://revlog.africa"><b><img src="https://img.shields.io/badge/REVLOG-F97316?style=flat-square" alt="REVLOG"/></b></a> &nbsp;Fire-safe storage and collection infrastructure for new and end-of-life batteries in Africa.
-- 🛰️ <a href="https://aims.ksa.go.ke"><b><img src="https://img.shields.io/badge/Kenya_Space_Agency_·_AIMS-F97316?style=flat-square" alt="AIMS"/></b></a> &nbsp;Satellite-based agricultural monitoring system. Built and deployed in production.
+- 🚛 <a href="https://aximobility.com"><b><img src="https://img.shields.io/badge/AXI_Mobility-F97316?style=flat-square" alt="AXI"/></b></a>
+- 🤖 <a href="https://wispy.cc"><b><img src="https://img.shields.io/badge/Wispy-F97316?style=flat-square" alt="Wispy"/></b></a>&nbsp;<a href="https://github.com/brn-mwai/wispy"><img src="https://img.shields.io/badge/repo-181717?style=flat-square&logo=github&logoColor=white" alt="repo"/></a>
+- 🌿 <a href="https://revlog.africa"><b><img src="https://img.shields.io/badge/REVLOG-F97316?style=flat-square" alt="REVLOG"/></b></a>
+- 🛰️ <a href="https://aims.ksa.go.ke"><b><img src="https://img.shields.io/badge/Kenya_Space_Agency_·_AIMS-F97316?style=flat-square" alt="AIMS"/></b></a>
 
 ## Hackathon Projects
 
-- 🚦 <a href="https://github.com/brn-mwai/tollgate-nanopayments"><b><img src="https://img.shields.io/badge/Tollgate-F97316?style=flat-square" alt="Tollgate"/></b></a>&nbsp;<a href="https://github.com/brn-mwai/tollgate-nanopayments"><img src="https://img.shields.io/badge/repo-181717?style=flat-square&logo=github&logoColor=white" alt="repo"/></a> &nbsp;Pay-per-request rail for AI bots. HTTP 402 + USDC nanopayments on Circle's Arc blockchain. Publishers earn instead of blocking.
-- 🛡️ <a href="https://qova.cc"><b><img src="https://img.shields.io/badge/Qova-F97316?style=flat-square" alt="Qova"/></b></a>&nbsp;<a href="https://github.com/brn-mwai/qova"><img src="https://img.shields.io/badge/repo-181717?style=flat-square&logo=github&logoColor=white" alt="repo"/></a> &nbsp;Financial trust infrastructure for AI agents. Chainlink CRE workflows + ERC-4337 smart accounts.
-- 📋 <a href="https://termly.cc"><b><img src="https://img.shields.io/badge/Termly-F97316?style=flat-square" alt="Termly"/></b></a>&nbsp;<a href="https://github.com/brn-mwai/termly-LMA"><img src="https://img.shields.io/badge/repo-181717?style=flat-square&logo=github&logoColor=white" alt="repo"/></a> &nbsp;AI platform that extracts covenants from loan documents and monitors compliance across portfolios.
-- 🎯 <a href="https://prereq.brianmwai.com"><b><img src="https://img.shields.io/badge/Prereq-F97316?style=flat-square" alt="Prereq"/></b></a>&nbsp;<a href="https://github.com/brn-mwai/prereq-codecraze-hackathon"><img src="https://img.shields.io/badge/repo-181717?style=flat-square&logo=github&logoColor=white" alt="repo"/></a> &nbsp;AI-generated meeting briefs from LinkedIn profiles. Chrome extension + Web dashboard.
-- 🗣️ <a href="https://sprrw.app"><b><img src="https://img.shields.io/badge/Sparrow_AI-F97316?style=flat-square" alt="Sparrow AI"/></b></a>&nbsp;<a href="https://github.com/brn-mwai/sparrow-ai-partner-catalyst"><img src="https://img.shields.io/badge/repo-181717?style=flat-square&logo=github&logoColor=white" alt="repo"/></a> &nbsp;AI-powered sales training. Practice cold calls with AI prospects that push back like real buyers.
-- 🔍 <a href="https://github.com/brn-mwai/resolve"><b><img src="https://img.shields.io/badge/Resolve-F97316?style=flat-square" alt="Resolve"/></b></a>&nbsp;<a href="https://github.com/brn-mwai/resolve"><img src="https://img.shields.io/badge/repo-181717?style=flat-square&logo=github&logoColor=white" alt="repo"/></a> &nbsp;Intelligent Incident Resolution Agent powered by Elastic Agent Builder.
-- 💰 <a href="https://paystream.hausorlabs.tech"><b><img src="https://img.shields.io/badge/Paystream_AI-F97316?style=flat-square" alt="Paystream AI"/></b></a> &nbsp;AI blockchain payroll system. Autonomous payments in seconds.
+- 🚦 <a href="https://github.com/brn-mwai/tollgate-nanopayments"><b><img src="https://img.shields.io/badge/Tollgate-F97316?style=flat-square" alt="Tollgate"/></b></a>&nbsp;<a href="https://github.com/brn-mwai/tollgate-nanopayments"><img src="https://img.shields.io/badge/repo-181717?style=flat-square&logo=github&logoColor=white" alt="repo"/></a>
+- 🛡️ <a href="https://qova.cc"><b><img src="https://img.shields.io/badge/Qova-F97316?style=flat-square" alt="Qova"/></b></a>&nbsp;<a href="https://github.com/brn-mwai/qova"><img src="https://img.shields.io/badge/repo-181717?style=flat-square&logo=github&logoColor=white" alt="repo"/></a>
+- 📋 <a href="https://termly.cc"><b><img src="https://img.shields.io/badge/Termly-F97316?style=flat-square" alt="Termly"/></b></a>&nbsp;<a href="https://github.com/brn-mwai/termly-LMA"><img src="https://img.shields.io/badge/repo-181717?style=flat-square&logo=github&logoColor=white" alt="repo"/></a>
+- 🎯 <a href="https://prereq.brianmwai.com"><b><img src="https://img.shields.io/badge/Prereq-F97316?style=flat-square" alt="Prereq"/></b></a>&nbsp;<a href="https://github.com/brn-mwai/prereq-codecraze-hackathon"><img src="https://img.shields.io/badge/repo-181717?style=flat-square&logo=github&logoColor=white" alt="repo"/></a>
+- 🗣️ <a href="https://sprrw.app"><b><img src="https://img.shields.io/badge/Sparrow_AI-F97316?style=flat-square" alt="Sparrow AI"/></b></a>&nbsp;<a href="https://github.com/brn-mwai/sparrow-ai-partner-catalyst"><img src="https://img.shields.io/badge/repo-181717?style=flat-square&logo=github&logoColor=white" alt="repo"/></a>
+- 🔍 <a href="https://github.com/brn-mwai/resolve"><b><img src="https://img.shields.io/badge/Resolve-F97316?style=flat-square" alt="Resolve"/></b></a>&nbsp;<a href="https://github.com/brn-mwai/resolve"><img src="https://img.shields.io/badge/repo-181717?style=flat-square&logo=github&logoColor=white" alt="repo"/></a>
+- 💰 <a href="https://paystream.hausorlabs.tech"><b><img src="https://img.shields.io/badge/Paystream_AI-F97316?style=flat-square" alt="Paystream AI"/></b></a>
 
 ---
 
